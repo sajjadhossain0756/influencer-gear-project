@@ -216,7 +216,7 @@
     /* nav style start here */
     .navbar{
         flex-direction: column;
-        margin: 20px;
+        margin: 30px;
         gap: 30px;
     }
     /* hero-image section start here */
@@ -266,7 +266,7 @@
     }
     /* feature section styles start here */
     .feature-section{
-       margin: 50px 20px;
+       margin: 50px 25px;
        text-align: center;
     }
     .feature-container{
